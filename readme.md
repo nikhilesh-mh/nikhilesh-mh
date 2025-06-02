@@ -14,7 +14,7 @@
   - Exploring advanced AI topics such as **Neural Networks**, **Natural Language Processing (NLP)**, and **Generative AI**.  
   - Building innovative projects that combine programming and AI to solve real-world problems.  
 
-- 📫 **Let's Connect**: Collaborations excite me! Reach out via my **Instagram**: [`@its_nikhilesh_m`](https://www.instagram.com/its_nikhilesh_m) to share insights, ideas, or discuss potential projects.  
+- 📫 **Let's Connect**: Collaborations excite me! Reach out via my **Instagram**: [`@nikhilesh_mh`](https://www.instagram.com/nikhilesh_mh) to share insights, ideas, or discuss potential projects.  
 
 - 🔍 **Continuous Learning**: I dedicate myself to staying updated on emerging trends, studying diverse programming paradigms, and honing my skills by experimenting with practical applications of AI and ML.  
 
