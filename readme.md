@@ -1,5 +1,3 @@
-###
----
 
 ### I'm **`Nikhilesh Mehra`**, a young enthusiast exploring the realms of Artificial Intelligence, Machine Learning, and Programming.
 
